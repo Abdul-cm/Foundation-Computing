@@ -1,0 +1,17 @@
+body{
+	width:80%;
+}
+.homepage {color:green;}
+nav ul{
+	list-style-type:none; 
+	margin:2%;
+    padding: 0;
+  
+	}
+nav li{display:inline-block;margin:2%}
+table, th, td{
+	border: 1px solid black;
+}
+.homepage {font-size: 25px;
+}
+.Goals {  list-style-type: circle;}
